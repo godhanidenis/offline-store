@@ -1,0 +1,10 @@
+{
+  "name": "offline-store",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
